@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/149-tic-tac-toe.html
-// https://youtu.be/GTWrWM1UsnA
-// https://editor.p5js.org/codingtrain/sketches/5JngATm3c
-
 let board = [
   ['', '', ''],
   ['', '', ''],
